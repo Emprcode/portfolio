@@ -1,3 +1,25 @@
 .nav-bar{
     background: linear-gradient(180deg, #2A947A 0%, rgba(12, 168, 209, 0.13) 99.99%, rgba(22, 115, 92, 0) 100%) !important;
 }
+
+.hero{
+    background: linear-gradient(180deg, #2A947A 0%, rgba(12, 168, 209, 0.13) 99.99%, rgba(22, 115, 92, 0) 100%);
+    min-height: 60vh;
+
+}
+.hero img{
+    max-width: 400px;
+
+}
+
+.title{
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2rem;
+    letter-spacing: 0.3rem;
+}
+.title span{
+    border-bottom: 5px solid rgba(149, 35, 151, 0.81);
+    padding: 0.5rem 2rem;
+}
