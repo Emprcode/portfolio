@@ -63,3 +63,7 @@ text-fill-color: transparent;
     
 
 } */
+
+.contact{
+    background: linear-gradient(180deg, #1e70eb9a 0%, rgba(26, 140, 240, 0.397) 99.99%, rgba(31, 185, 90, 0.753) 100%);
+}
